@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Genhao Zhang 👋
 
-<!--
-**ChiriSakura/ChiriSakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS in Electrical Engineering @ Columbia University** (Expected Dec 2026) | **BE @ Fudan University**
 
-Here are some ideas to get you started:
+🔭 **Research Focus:** Algorithm-Architecture-Circuit Co-design for efficient AI systems, Edge AI, and custom silicon for IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Let's Connect!
+- 📧 **Email:** [gz2406@columbia.edu](mailto:gz2406@columbia.edu)
+- 🔗 **LinkedIn:** [genhao-zhang](https://www.linkedin.com/in/genhao-zhang-539787381)
+- 🌐 **Portfolio:** [Your Portfolio Link if any]
+
+---
+
+### 🐍 My Contribution Graph
+![snake animation](https://github.com/ChiriSakura/ChiriSakura/blob/output/snake.svg)
