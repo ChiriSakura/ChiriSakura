@@ -14,4 +14,8 @@
 ---
 
 ### 🐍 My Contribution Graph
-![snake animation](https://github.com/ChiriSakura/ChiriSakura/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ChiriSakura/ChiriSakura/blob/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ChiriSakura/ChiriSakura/blob/output/snake-light.svg">
+  <img alt="snake animation" src="https://github.com/ChiriSakura/ChiriSakura/blob/output/snake-light.svg">
+</picture>
