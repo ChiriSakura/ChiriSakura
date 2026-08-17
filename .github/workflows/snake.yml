@@ -19,9 +19,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # 生成适配 GitHub 深色模式的动画（如果你用浅色模式，可去掉 ?palette=github-dark）
-          outputs: dist/snake.svg?palette=github-dark
-      
+          # 👇 改动点：用 "|" 多行语法，一次生成两张图
+          outputs: |
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
+
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
