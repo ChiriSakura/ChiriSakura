@@ -1,14 +1,14 @@
 ### Hi there, I'm Genhao Zhang 👋
 
-**MS in Electrical Engineering @ Columbia University** (Expected Dec 2026) | **BE @ Fudan University**
+**MS in Electrical Engineering @ Columbia University** | **BE @ Fudan University**
 
-🔭 **Research Focus:** Algorithm-Architecture-Circuit Co-design for efficient AI systems, Edge AI, and custom silicon for IoT.
+🔭 **Research Focus:** AI for Computing, Hardware for AI, AI Algorithms, and ML Systems — with a focus on agentic hardware design, algorithm–architecture co-design, efficient learning, and AI infrastructure.
 
 ---
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [gz2406@columbia.edu](mailto:gz2406@columbia.edu)
-- 🔗 **LinkedIn:** [genhao-zhang](https://www.linkedin.com/in/genhao-zhang-539787381)
+- 🔗 **LinkedIn:** [genhao-zhang](https://www.linkedin.com/in/genhao-zhang-414021380)
 - 🌐 **Portfolio:** [Your Portfolio Link if any]
 
 ---
