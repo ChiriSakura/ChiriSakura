@@ -2,7 +2,7 @@
 
 **MS in Electrical Engineering @ Columbia University** | **BE @ Fudan University**
 
-🔭 **Research Focus:** AI for Computing, Hardware for AI, AI Algorithms, and ML Systems — with a focus on agentic hardware design, algorithm–architecture co-design, efficient learning, and AI infrastructure.
+🔭 **Research Focus:** AI for Computing, Hardware for AI, AI Algorithms, and ML Systems — with a focus on agentic hardware design, algorithm–architecture co-design, representation learning, and AI infrastructure.
 
 ---
 
